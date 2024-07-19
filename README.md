@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, My name is Gary.  I am a Web developer and an IT Professional.
 
 <!--
 **Gary-In-IT/Gary-in-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
