@@ -1,4 +1,4 @@
-<h1>Hello, my name is Gary, I am a Web Developer and an <a href="https://www.linkedin.com/in/gary-minor-801602253/">IT Professional</a>☺</h1>
+<h1>Hello, my name is Gary, I am a  <a href="https://www.linkedin.com/in/gary-minor-801602253/">Web Developer and an IT Professional</a>☺</h1>
 
 
 <h2><bold>Here are a few examples of my recent projects.</bold></h2>
