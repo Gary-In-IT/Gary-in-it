@@ -1,4 +1,4 @@
-<h1>Hello, my name is Gary, I am a  <a href="https://www.linkedin.com/in/gary-minor-801602253/">Web Developer and an IT Professional</a>☺</h1>
+<h1>Hello, my name is Gary, I am a  <a href="https://www.linkedin.com/in/gary-minor-801602253/">Web Developer and an IT Professional</a></h1>
 
 
 <h2><bold>Here are a few examples of my recent projects.</bold></h2>
@@ -10,7 +10,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/xxxxx/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/xxxxx/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/xxxxx/configure-ad)
+  - [Configuring Active Directory within Azure VMs](https://github.com/xxxxx/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/XXXXX/azure-network-protocols)
 
 
