@@ -14,6 +14,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/XXXXX/azure-network-protocols)
 
 
+
 <h2> :construction_worker: Web Development Projects:</h2>
 
   <p> My entire Github is open to view, look at any of my code or select from the links below</p>
@@ -29,7 +30,7 @@
 - <b>Fullstack ecommerce in the MERN stack.</b>
   - [The code: MongoDB, express, React, Nodejs](https://github.com/Gary-In-IT/CapStone-FSDI)
 
-- <b>Furebase project.</b>
+- <b>Firebase project.</b>
   - [The code: React, Firebase, tailwind ](https://github.com/Gary-In-IT/firebase-reactjs-project)  
 
 
