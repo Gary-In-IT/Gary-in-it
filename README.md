@@ -3,7 +3,7 @@
 
 <h2><bold>Here are a few examples of my recent projects.</bold></h2>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/xxxx/osticket-prereqs)
@@ -15,7 +15,7 @@
 
 
 
-<h2> :construction_worker: Web Development Projects:</h2>
+<h2>Web Development Projects:</h2>
 
   <p> My entire Github is open to view, look at any of my code or select from the links below.</p>
 
@@ -40,7 +40,7 @@
 
 
 
-<h2>🤳Connect with me:</h2>
+<h2>Connect with me:</h2>
 
 [<img align="left" alt="Gary | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" target="_blank" />][twitter]
 [<img align="left" alt="Gary | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank" />][linkedin]
