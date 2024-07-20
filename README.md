@@ -17,7 +17,7 @@
 
 <h2> :construction_worker: Web Development Projects:</h2>
 
-  <p> My entire Github is open to view, look at any of my code or select from the links below</p>
+  <p> My entire Github is open to view, look at any of my code or select from the links below.</p>
 
 - <b>My developer Portfolio.</b>
   - [The code: Javascript, Sass](https://github.com/Gary-In-IT/Simple-Portfolio)
