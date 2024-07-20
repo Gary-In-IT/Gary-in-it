@@ -24,7 +24,7 @@
   - [Deployed site ](https://simple-portfolio-pi-two.vercel.app/)
 
 - <b>Responsive design project.</b>
-  - [The code: Javascript, Sass](https://github.com/Gary-In-IT/CapStone-FSDI)
+  - [The code: Javascript, Sass](https://github.com/Gary-In-IT/responsive-design)
   - [Deployed site ](https://cool-quokka-247b18.netlify.app/)
  
 - <b>Fullstack ecommerce in the MERN stack.</b>
