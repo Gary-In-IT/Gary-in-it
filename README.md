@@ -1,21 +1,27 @@
 <h1>Hello, my name is Gary, I am a  <a href="https://www.linkedin.com/in/gary-minor-801602253/">Web Developer and an IT Professional</a></h1>
 
 
-<h2><bold>Here are a few examples of my recent projects.</bold></h2>
 
-<h2>Information Technology Projects:</h2>
+
+<h2>Information Technology:</h2>
+
+- <b>Google IT Support</b>
+  - [System Administration and IT Infrastructure Service.](https://github.com/xxxx/)
+  - [XXXXXXXXX](https://github.com/xxxxx/)
+  - [XXXXXXXXXX](https://github.com/xxxxx/)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/xxxx/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/xxxxx/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/xxxxx/ticket-lifecycle)
+
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/xxxxx/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/XXXXX/azure-network-protocols)
 
 
 
-<h2>Web Development Projects:</h2>
+<h2>Web Development:</h2>
 
   <p> My entire Github is open to view, look at any of my code or select from the links below.</p>
 
