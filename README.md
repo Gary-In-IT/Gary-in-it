@@ -6,7 +6,7 @@
 - <b>Google IT Support Professional</b>
   - [Coursera Profile](https://www.coursera.org/user/51cdcba0847a1892e1c742f4b6b98f5a)
 
-  - <b>Cisco Networking</b>
+- <b>Cisco Networking</b>
   - [Cisco Packet Tracer Training ](https://skillsforall.com/learningcollections/cisco-packet-tracer?courseLang=en-US) 
 
 - <b>osTicket (Help Desk Ticketing System)</b>
@@ -25,7 +25,7 @@
 
   - <b>Meta Front-End Developer Professional Certificate</b>
   - [Coursera Profile](https://www.coursera.org/learner/meta-certification)
-  
+
 - <b>My developer Portfolio.</b>
   - [The code: Javascript, Sass](https://github.com/Gary-In-IT/Simple-Portfolio)
   - [Deployed site ](https://simple-portfolio-pi-two.vercel.app/)
