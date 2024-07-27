@@ -25,8 +25,7 @@
 
   - <b>Meta Front-End Developer Professional Certificate</b>
   - [Coursera Profile](https://www.coursera.org/learner/meta-certification)
-  - 
-
+  
 - <b>My developer Portfolio.</b>
   - [The code: Javascript, Sass](https://github.com/Gary-In-IT/Simple-Portfolio)
   - [Deployed site ](https://simple-portfolio-pi-two.vercel.app/)
