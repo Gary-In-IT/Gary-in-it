@@ -1,14 +1,13 @@
 <h1>Hello, my name is Gary, I am a  <a href="https://www.linkedin.com/in/gary-minor-801602253/">Web Developer and an IT Professional</a></h1>
 
 
-
-
 <h2>Information Technology:</h2>
 
-- <b>Google IT Support</b>
-  - [System Administration and IT Infrastructure Service.](https://github.com/)
-  - [XXXXXXXXX](https://github.com/)
-  - [XXXXXXXXXX](https://github.com/)
+- <b>Google IT Support Professional</b>
+  - [Coursera Profile](https://www.coursera.org/user/51cdcba0847a1892e1c742f4b6b98f5a)
+
+  - <b>Cisco Networking</b>
+  - [Cisco Packet Tracer Training ](https://skillsforall.com/learningcollections/cisco-packet-tracer?courseLang=en-US) 
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/xxxx/osticket-prereqs)
@@ -17,13 +16,16 @@
 
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/xxxxx/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/XXXX/azure-network-protocols)
-
+  - [Network Security Groups and Inspecting Network Protocols](https://github.com/XXXX/azure-network-protocols)
 
 
 <h2>Web Development:</h2>
 
   <p> My entire Github is open to view, look at any of my code or select from the links below.</p>
+
+  - <b>Meta Front-End Developer Professional Certificate</b>
+  - [Coursera Profile](https://www.coursera.org/learner/meta-certification)
+  - 
 
 - <b>My developer Portfolio.</b>
   - [The code: Javascript, Sass](https://github.com/Gary-In-IT/Simple-Portfolio)
