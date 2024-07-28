@@ -10,9 +10,8 @@
   - [Cisco Packet Tracer Training ](https://skillsforall.com/learningcollections/cisco-packet-tracer?courseLang=en-US) 
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/xxxx/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/xxxxx/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/xxxxx/ticket-lifecycle)
+  - [osTicket: Installation and Use ](https://github.com/Gary-In-IT/OsTicket-Install-and-use)
+  
 
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/xxxxx/configure-ad)
