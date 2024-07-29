@@ -13,11 +13,6 @@
   - [osTicket: Installation and Use ](https://github.com/Gary-In-IT/OsTicket-Install-and-use)
   
 
-- <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/xxxxx/configure-ad)
-  - [Network Security Groups and Inspecting Network Protocols](https://github.com/XXXX/azure-network-protocols)
-
-
 <h2>Web Development:</h2>
 
   <p> My entire Github is open to view, look at any of my code or select from the links below.</p>
