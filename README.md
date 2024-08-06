@@ -14,7 +14,12 @@
 
 
  <h2>Security Operations:</h2>
-  <script src="https://tryhackme.com/badge/3272028"></script>
+  {% block script %}
+    {% if script %}
+        <script src="/javascript/{{ https://tryhackme.com/badge/3272028 }}"></script>
+    {% endif %}
+{% endblock %}
+  <script src=""></script>
   
 
 <h2>Web Development:</h2>
