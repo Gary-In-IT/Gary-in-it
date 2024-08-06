@@ -11,6 +11,10 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Installation and Use ](https://github.com/Gary-In-IT/OsTicket-Install-and-use)
+
+
+ <h2>Security Operations:</h2>
+  <script src="https://tryhackme.com/badge/3272028"></script>
   
 
 <h2>Web Development:</h2>
