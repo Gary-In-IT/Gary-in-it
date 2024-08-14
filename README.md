@@ -14,7 +14,7 @@
 
 
  <h2>Security Operations:</h2>
-    <img src="https://tryhackme-badges.s3.amazonaws.com/5GPP.png" alt="TryHackMe">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/5GPP.png" alt="TryHackMe"> 
 
 <h2>Web Development:</h2>
 
