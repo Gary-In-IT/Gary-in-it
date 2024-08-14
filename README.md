@@ -1,6 +1,11 @@
 <h1>Hello, my name is Gary, I am a  <a href="https://www.linkedin.com/in/gary-minor-801602253/">Web Developer and an IT Professional</a></h1>
 
 
+
+<h2>Security Operations:</h2>
+<img src="https://tryhackme-badges.s3.amazonaws.com/5GPP.png" alt="TryHackMe">
+
+
 <h2>Information Technology:</h2>
 
 - <b>Google IT Support Professional</b>
@@ -11,10 +16,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Installation and Use ](https://github.com/Gary-In-IT/OsTicket-Install-and-use)
-
-
- <h2>Security Operations:</h2>
-    <img src="https://tryhackme-badges.s3.amazonaws.com/5GPP.png" alt="TryHackMe"> 
+    
 
 <h2>Web Development:</h2>
 
