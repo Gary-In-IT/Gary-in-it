@@ -1,9 +1,11 @@
-<h1>Hello, my name is Gary, I am a  <a href="https://www.linkedin.com/in/gary-minor-801602253/">Web Developer and an IT Professional</a></h1>
+<h1>Hello, my name is Gary, I am a  <a href="https://www.linkedin.com/in/gary-minor-801602253/">Web Developer and an IT and Security Operations Professional.</a></h1>
 
 
 
 <h2>Security Operations:</h2>
 <img src="https://tryhackme-badges.s3.amazonaws.com/5GPP.png" alt="TryHackMe">
+
+<p>More to come later ....</p>
 
 
 <h2>Information Technology:</h2>
@@ -12,7 +14,7 @@
   - [Coursera Profile](https://www.coursera.org/user/51cdcba0847a1892e1c742f4b6b98f5a)
 
 - <b>Cisco Networking</b>
-  - [Cisco Packet Tracer Training ](https://skillsforall.com/learningcollections/cisco-packet-tracer?courseLang=en-US) 
+ - [Cisco Packet Tracer Training ](https://skillsforall.com/learningcollections/cisco-packet-tracer?courseLang=en-US) 
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Installation and Use ](https://github.com/Gary-In-IT/OsTicket-Install-and-use)
