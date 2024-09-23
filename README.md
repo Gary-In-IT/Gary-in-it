@@ -5,7 +5,7 @@
 <h2>Security Operations:</h2>
 <img src="https://tryhackme-badges.s3.amazonaws.com/5GPP.png" alt="TryHackMe">
 
-<p>More to come later ....</p>
+<p>More to come later ...</p>
 
 
 <h2>Information Technology:</h2>
