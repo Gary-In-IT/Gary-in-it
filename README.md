@@ -5,6 +5,8 @@
 <h2>Security Operations:</h2>
 <img src="https://tryhackme-badges.s3.amazonaws.com/5GPP.png" alt="TryHackMe">
 
+<p>Currently in the SOC 1 learning path.</p>
+
 <p>More to come later ...</p>
 
 
