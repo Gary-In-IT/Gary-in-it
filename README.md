@@ -10,6 +10,9 @@
 
 <h2>Information Technology:</h2>
 
+- <b>CompTia A+</b>
+  - [Cert # upon request])
+
 - <b>Google IT Support Professional</b>
   - [Coursera Profile](https://www.coursera.org/user/51cdcba0847a1892e1c742f4b6b98f5a)
 
