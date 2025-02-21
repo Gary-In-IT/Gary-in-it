@@ -12,6 +12,9 @@
 
 <h2>Information Technology:</h2>
 
+- <b>CompTia Network +</b>
+  - [Cert # upon request]
+
 - <b>CompTia A+</b>
   - [Cert # upon request]
 
